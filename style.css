@@ -1,0 +1,15 @@
+.right{
+  margin-right: 2px;
+ 
+}
+.wrapp{
+  width: 850px;
+  margin: auto;
+}
+.block{
+  padding: 5px;
+  background-color: rgb(255, 233, 110);
+}
+.width{
+  min-width: 420px;
+}
